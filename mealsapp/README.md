@@ -4,6 +4,7 @@
 
 2. cài fron chữ : flutter pub add google_fonts
 3. cài chức năng thêm hình ảnh : flutter pub add transparent_image
+4. cài thêm chức năng : flutter pub add flutter_riverpod
 
 # tạo thanh menu ngang
 
